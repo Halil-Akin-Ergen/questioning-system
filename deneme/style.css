@@ -1,0 +1,16 @@
+.header {
+    text-align: center;
+}
+
+.tokiimage{
+    margin-left: 30px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+}
+body{
+    background-image: url("https://files.sikayetvar.com/lg/cmp/14/1473.svg?1522650125");
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: left top;
+    background-attachment: fixed;
+}
